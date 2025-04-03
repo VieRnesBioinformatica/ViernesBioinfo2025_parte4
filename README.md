@@ -1,3 +1,3 @@
 # ViernesBioinfo2025_parte4
 
-Testing commit
+Dates:  del 5 de septiembre al 9 de diciembre
