@@ -39,10 +39,22 @@ Staff:  Jorge Suazo
 
 ## Contenido 📌
 
-- Viernes 1. Información general del curso (7/feb/2025) - Evelia Coss e Israel Aguilar 
-- Viernes 2. TBA (14/feb/2025) - TBA
+- Viernes 1. Información general del curso (5/sep/2025) - Evelia Coss e Israel Aguilar 
+- Viernes 2. TBA (12/sep/2025) - TBA
+- Viernes 3. TBA (19/sep/2025) - TBA
+- Viernes 4. TBA (26/sep/2025) - TBA
+- Viernes 5. TBA (03/oct/2025) - TBA
+- Viernes 6. TBA (10/oct/2025) - TBA
+- Viernes 7. TBA (17/oct/2025) - TBA
+- Viernes 8. TBA (24/oct/2025) - TBA
+- Viernes 9. TBA (31/oct/2025) - TBA
+- Viernes 10. TBA (07/nov/2025) - TBA
+- Viernes 11. TBA (14/nov/2025) - TBA
+- Viernes 12. TBA (21/nov/2025) - ASUETO no hay clase
+- Viernes 13. TBA (28/nov/2025) - TBA
+- Viernes 14. TBA (05/dic/2025) - TBA
+- Viernes 15. TBA (12/dic/2025) - TBA
 
-#### Viernes 1. TBA
 - Fecha: X y X de Septiembre 2025
 - Instructor: TBA
 - Presentación: TBA
