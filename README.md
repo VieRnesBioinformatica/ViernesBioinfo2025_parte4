@@ -39,12 +39,21 @@ Staff:  Jorge Suazo
 
 ## Contenido 📌
 
-- Viernes 1. Información general del curso (5/sep/2025) - Evelia Coss e Israel Aguilar 
-- Viernes 2. TBA (12/sep/2025) - TBA
-- Viernes 3. TBA (19/sep/2025) - TBA
-- Viernes 4. TBA (26/sep/2025) - TBA
-- Viernes 5. TBA (03/oct/2025) - TBA
-- Viernes 6. TBA (10/oct/2025) - TBA
+- Viernes 1. (5/sep/2025) Leaving Academia 1  
+  11:30 a 12:30 - Información general del curso - Evelia Coss e Israel Aguilar  
+  12:30 a 13:30 - Leaving Academia - Mi camino profesional tras dejar la academia - Emmanuel Rojas Morales  
+- Viernes 2. (12/sep/2025) Leaving Academia 2  
+  11:30 a 12:30 - La IA como herramienta de programación: chatGPT - Israel Aguilar  
+  12:30 a 13:30 - Leaving Academia - Mi camino profesional tras dejar la academia - Antonio Daniel Martínez Gutiérrez  
+- Viernes 3. (19/sep/2025) PLINK  
+  11:30 a 13:30 - Preparación de data para GWAS - Angélica de Luna García  
+- Viernes 4. (26/sep/2025) Leaving Academia 3  
+  11:30 a 12:30 - La IA como herramienta de programación: deepseek - Israel Aguilar 
+  12:30 a 13:30 - Leaving Academia - Mi camino profesional tras dejar la academia - María Guadalupe Segovia Ramírez  
+- Viernes 5. (03/oct/2025) - TBA
+  11:30 a 13:30 - TBA - Brenda Eloisa Sanchez Pichardo  
+- Viernes 6. (10/oct/2025) - PCA en Transcriptómica
+  11:30 a 13:30 - Anáisis de Componentes Principales en datos Transcriptómicos - Alejandra Paulina Pérez González  
 - Viernes 7. TBA (17/oct/2025) - TBA
 - Viernes 8. TBA (24/oct/2025) - TBA
 - Viernes 9. TBA (31/oct/2025) - TBA
