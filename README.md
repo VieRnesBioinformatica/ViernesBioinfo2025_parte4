@@ -39,30 +39,38 @@ Staff:  Jorge Suazo
 
 ## Contenido 📌
 
-- Viernes 1. (5/sep/2025) Leaving Academia 1  
+- Viernes 1. (5/sep/2025) **Leaving Academia 1**  
   11:30 a 12:30 - Información general del curso - Evelia Coss e Israel Aguilar  
   12:30 a 13:30 - Leaving Academia - Mi camino profesional tras dejar la academia - Emmanuel Rojas Morales  
-- Viernes 2. (12/sep/2025) Leaving Academia 2  
+- Viernes 2. (12/sep/2025) **Leaving Academia 2**  
   11:30 a 12:30 - La IA como herramienta de programación: chatGPT - Israel Aguilar  
   12:30 a 13:30 - Leaving Academia - Mi camino profesional tras dejar la academia - Antonio Daniel Martínez Gutiérrez  
-- Viernes 3. (19/sep/2025) PLINK  
+- Viernes 3. (19/sep/2025) **PLINK**  
   11:30 a 13:30 - Preparación de data para GWAS - Angélica de Luna García  
-- Viernes 4. (26/sep/2025) Leaving Academia 3  
-  11:30 a 12:30 - La IA como herramienta de programación: deepseek - Israel Aguilar 
+- Viernes 4. (26/sep/2025) **Leaving Academia 3**  
+  11:30 a 12:30 - La IA como herramienta de programación: Deepseek - Israel Aguilar  
   12:30 a 13:30 - Leaving Academia - Mi camino profesional tras dejar la academia - María Guadalupe Segovia Ramírez  
 - Viernes 5. (03/oct/2025) - TBA
   11:30 a 13:30 - TBA - Brenda Eloisa Sanchez Pichardo  
-- Viernes 6. (10/oct/2025) - PCA en Transcriptómica
+- Viernes 6. (10/oct/2025) - **PCA en Transcriptómica**  
   11:30 a 13:30 - Anáisis de Componentes Principales en datos Transcriptómicos - Alejandra Paulina Pérez González  
-- Viernes 7. TBA (17/oct/2025) - TBA
-- Viernes 8. TBA (24/oct/2025) - TBA
-- Viernes 9. TBA (31/oct/2025) - TBA
-- Viernes 10. TBA (07/nov/2025) - TBA
-- Viernes 11. TBA (14/nov/2025) - TBA
-- Viernes 12. TBA (21/nov/2025) - ASUETO no hay clase
-- Viernes 13. TBA (28/nov/2025) - TBA
-- Viernes 14. TBA (05/dic/2025) - TBA
-- Viernes 15. TBA (12/dic/2025) - TBA
+- Viernes 7. (17/oct/2025) - **Reproducibilidad Bioinformática**  
+  11:30 a 13:30 - Recreando una figura de un artículo en R - Josué Guzmán Linares  
+- Viernes 8. (24/oct/2025) - **Predicción miRNAs**  
+  11:30 a 13:30 - Predicción de genes blanco y vías funcionales en miRNAs - Andrea Maria Torres Iribe
+- Viernes 9. (31/oct/2025) - **Admixture**  
+  11:30 a 13:30 - Tutorial de ADMIXTURE con datos de mil genomas - Israel Aguilar  
+- Viernes 10. (07/nov/2025) - TBA  
+  11:30 a 13:30 - TBA - Fernanda Mirón Toruño  
+- Viernes 11. (14/nov/2025) - TBA  
+  11:30 a 13:30 - TBA - Blanca Itzel Taboada  
+- Viernes 12. (21/nov/2025) - **ASUETO no hay sesión**  
+- Viernes 13. (28/nov/2025) - **Llamado de Variantes Quick**  
+  11:30 a 13:30 - Tutorial nf-core/sarek - Karla Guzmán Barrenechea   
+- Viernes 14. TBA (05/dic/2025) - **R y Python**  
+  11:30 a 13:30 - ¿cómo hago en Python lo que hago en R? - Israel Aguilar  
+- Viernes 15. TBA (12/dic/2025) - **EcoNiches**  
+  11:30 a 13:30 - Tutorial del paquete R: EcoNiches - Armando Sunny  
 
 - Fecha: X y X de Septiembre 2025
 - Instructor: TBA
