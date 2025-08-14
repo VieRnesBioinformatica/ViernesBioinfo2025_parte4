@@ -11,8 +11,6 @@ Fomentar la formación y crecimiento en bioinformática a través de cursos grat
 
 Los cursos se imparten cada viernes, se les pide que se inscriban máximo el JUEVES A LAS 6 PM. Solicitudes recibidas posterior a este día y hora, no podrán asistir el viernes de esa semana.
 
-Completa el siguiente [Google form PENDIENTE](XXXX). Inscripciones abiertas del XX de Julio al XX de Agosto, cierre 6 pm.
-
 Para cualquier duda o problema mandar un correo con copia a los coordinadores del curso, la Dra. Evelia Coss (ecoss@liigh.unam.mx) y el Dr. Israel Aguilar (iaguilaror@gmail.com).
 
 Gracias por hacer de nuestro grupo un lugar especial. ¡Espero que sigamos logrando grandes cosas junt@s!
