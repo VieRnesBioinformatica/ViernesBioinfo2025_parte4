@@ -42,7 +42,7 @@ Staff:  Jorge Suazo
   12:30 a 13:30 - Leaving Academia - Mi camino profesional tras dejar la academia - Emmanuel Rojas Morales  
 - Viernes 2. (12/sep/2025) **Leaving Academia 2**  
   11:30 a 12:30 - La IA como herramienta de programación: chatGPT - Israel Aguilar  
-  12:30 a 13:30 - Leaving Academia - Mi camino profesional tras dejar la academia - Antonio Daniel Martínez Gutiérrez  
+  12:30 a 13:30 - Leaving Academia - Mi camino profesional tras dejar la academia - Antonio Martínez Gutiérrez  
 - Viernes 3. (19/sep/2025) **PLINK**  
   11:30 a 13:30 - Preparación de data para GWAS - Angélica de Luna García  
 - Viernes 4. (26/sep/2025) **Leaving Academia 3**  
