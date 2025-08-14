@@ -29,7 +29,7 @@ Se otorgará un diploma a los participantes que cuenten con el 80 % de las asist
 
 ## Instructores 👾
 
-- Maria Fernanda Miron Toruno - Doctorado Baylor University
+- TBA
 
 Coordinadores: Dra. Evelia Coss y Dr. Israel Aguilar
 
