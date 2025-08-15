@@ -56,8 +56,8 @@ Staff:  Jorge Suazo
   11:30 a 13:30 - Recreando una figura de un artículo en R - Josué Guzmán Linares  
 - Viernes 8. (24/oct/2025) - **Predicción miRNAs**  
   11:30 a 13:30 - Predicción de genes blanco y vías funcionales en miRNAs - Andrea Maria Torres Iribe
-- Viernes 9. (31/oct/2025) - **Admixture**  
-  11:30 a 13:30 - Tutorial de ADMIXTURE con datos de mil genomas - Israel Aguilar  
+- Viernes 9. (31/oct/2025) -  TBA
+  11:30 a 13:30 - Proyectos de la Comunidad - Evelia Coss  
 - Viernes 10. (07/nov/2025) - TBA  
   11:30 a 13:30 - TBA - Fernanda Mirón Toruño  
 - Viernes 11. (14/nov/2025) - TBA  
@@ -66,7 +66,7 @@ Staff:  Jorge Suazo
 - Viernes 13. (28/nov/2025) - **Llamado de Variantes Quick**  
   11:30 a 13:30 - Tutorial nf-core/sarek - Karla Guzmán Barrenechea   
 - Viernes 14. TBA (05/dic/2025) - **R y Python**  
-  11:30 a 13:30 - ¿cómo hago en Python lo que hago en R? - Israel Aguilar  
+  11:30 a 13:30 - Proyectos de la Comunidad - Evelia Coss  
 - Viernes 15. TBA (12/dic/2025) - **EcoNiches**  
   11:30 a 13:30 - Tutorial del paquete R: EcoNiches - Armando Sunny  
 
