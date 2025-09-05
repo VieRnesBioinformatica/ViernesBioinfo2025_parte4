@@ -44,7 +44,10 @@ Staff:  Jorge Suazo
 
 - Viernes 1. (5/sep/2025) **Leaving Academia 1**  
   11:30 a 12:30 - Información general del curso - Evelia Coss e Israel Aguilar  
-  12:30 a 13:30 - Leaving Academia - Mi camino profesional tras dejar la academia - Emmanuel Rojas Morales  
+  12:30 a 13:30 - Leaving Academia - Mi camino profesional tras dejar la academia - Emmanuel Rojas Morales
+
+   * Vídeo de la sesión: [https://youtube.com/live/oTxPMBZpoVM](https://youtube.com/live/oTxPMBZpoVM)  
+  
 - Viernes 2. (12/sep/2025) **Leaving Academia 2**  
   11:30 a 12:30 - Leaving Academia - Mi camino profesional tras dejar la academia - Antonio Martínez Gutiérrez  
   12:30 a 13:30 - La IA como herramienta de programación: chatGPT - Israel Aguilar  
