@@ -73,7 +73,7 @@ Equipo de apoyo:  Jorge Suazo
 - Viernes 12. (21/nov/2025) - **ASUETO no hay sesión**  
 - Viernes 13. (28/nov/2025) - **Llamado de Variantes Quick**  
   11:30 a 13:30 - Tutorial nf-core/sarek - Karla Guzmán Barrenechea   
-- Viernes 14. TBA (05/dic/2025) -  TBA  
-  11:30 a 13:30 - TBA  
+- Viernes 14. TBA (05/dic/2025) -  **¡Cómo preparar tus bases de datos!**    
+  11:30 a 13:30 - Preparing databases for mapping and variant calling in cancer research - Alan Michael Torres Calderon   
 - Viernes 15. TBA (12/dic/2025) - **EcoNiches**  
   11:30 a 13:30 - Tutorial del paquete R: EcoNiches - Armando Sunny  
