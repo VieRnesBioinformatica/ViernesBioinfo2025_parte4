@@ -38,7 +38,7 @@ Se otorgará un diploma a los participantes que cuenten con el 80 % de las asist
 
 Coordinadores: Dra. Evelia Coss y Dr. Israel Aguilar
 
-Staff:  Jorge Suazo
+Equipo de apoyo:  Jorge Suazo
 
 ## Contenido 📌
 
@@ -77,10 +77,3 @@ Staff:  Jorge Suazo
   11:30 a 13:30 - TBA  
 - Viernes 15. TBA (12/dic/2025) - **EcoNiches**  
   11:30 a 13:30 - Tutorial del paquete R: EcoNiches - Armando Sunny  
-
-- Fecha: X y X de Septiembre 2025
-- Instructor: TBA
-- Presentación: TBA
-- Grabación:
-    + [TBA](TBA)
-
