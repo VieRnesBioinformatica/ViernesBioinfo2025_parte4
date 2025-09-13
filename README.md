@@ -50,7 +50,10 @@ Equipo de apoyo:  Jorge Suazo
   
 - Viernes 2. (12/sep/2025) **Leaving Academia 2**  
   11:30 a 12:30 - Leaving Academia - Mi camino profesional tras dejar la academia - Antonio Martínez Gutiérrez  
-  12:30 a 13:30 - La IA como herramienta de programación: chatGPT - Israel Aguilar  
+  12:30 a 13:30 - La IA como herramienta de programación: chatGPT - Israel Aguilar
+  
+   * Vídeo de la sesión: [https://www.youtube.com/live/QecmDe8UVHE](https://www.youtube.com/live/QecmDe8UVHE)
+
 - Viernes 3. (19/sep/2025) **PLINK**  
   11:30 a 13:30 - Preparación de data para GWAS - Angélica de Luna García  
 - Viernes 4. (26/sep/2025) **Leaving Academia 3**  
