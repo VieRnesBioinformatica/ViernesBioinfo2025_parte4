@@ -57,7 +57,8 @@ Equipo de apoyo:  Jorge Suazo
 - Viernes 3. (19/sep/2025) **PLINK**  
   11:30 a 13:30 - Preparación de data para GWAS - Angélica de Luna García
   
-  Artículo recomendado: [A tutorial on conducting genome‐wide association studies: Quality control and statistical analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6001694/)
+  Artículo recomendado: [A tutorial on conducting genome‐wide association studies: Quality control and statistical analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6001694/)  
+  Datos descargables para el ejercicio [https://github.com/MareesAT/GWA_tutorial/](https://github.com/MareesAT/GWA_tutorial/)  
 
    * Vídeo de la sesión: https://www.youtube.com/live/58dZVEAN7iE?si=nz1DNNP0rHGhMdn9 
     
