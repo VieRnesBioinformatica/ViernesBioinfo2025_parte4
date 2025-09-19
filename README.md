@@ -65,7 +65,10 @@ Equipo de apoyo:  Jorge Suazo
     
 - Viernes 4. (26/sep/2025) **Leaving Academia 3**  
   11:30 a 12:30 - Leaving Academia - Mi camino profesional tras dejar la academia - María Guadalupe Segovia Ramírez  
-  12:30 a 13:30 - Proyectos de la Comunidad - Evelia Coss  
+  12:30 a 13:30 - Proyectos de la Comunidad - Evelia Coss
+  12:30 - [Dr.  Diego Cortez Quezada](https://www.ccg.unam.mx/diego-cortez-quezada/), investigador de CCG
+
+  
 - Viernes 5. (03/oct/2025) - TBA
   11:30 a 13:30 - TBA - Brenda Eloisa Sanchez Pichardo  
 - Viernes 6. (10/oct/2025) - **PCA en Transcriptómica**  
