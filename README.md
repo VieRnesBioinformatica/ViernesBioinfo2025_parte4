@@ -55,7 +55,11 @@ Equipo de apoyo:  Jorge Suazo
    * Vídeo de la sesión: [https://www.youtube.com/live/QecmDe8UVHE](https://www.youtube.com/live/QecmDe8UVHE)
 
 - Viernes 3. (19/sep/2025) **PLINK**  
-  11:30 a 13:30 - Preparación de data para GWAS - Angélica de Luna García  
+  11:30 a 13:30 - Preparación de data para GWAS - Angélica de Luna García
+  Artículo recomendado: [A tutorial on conducting genome‐wide association studies: Quality control and statistical analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6001694/)
+
+   * Vídeo de la sesión: https://www.youtube.com/live/58dZVEAN7iE?si=nz1DNNP0rHGhMdn9 
+    
 - Viernes 4. (26/sep/2025) **Leaving Academia 3**  
   11:30 a 12:30 - Leaving Academia - Mi camino profesional tras dejar la academia - María Guadalupe Segovia Ramírez  
   12:30 a 13:30 - Proyectos de la Comunidad - Evelia Coss  
