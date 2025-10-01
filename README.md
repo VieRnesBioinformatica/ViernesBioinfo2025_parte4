@@ -69,8 +69,9 @@ Equipo de apoyo:  Jorge Suazo
   12:30 - [Dr.  Diego Cortez Quezada](https://www.ccg.unam.mx/diego-cortez-quezada/), investigador de CCG
 
   
-- Viernes 5. (03/oct/2025) - TBA
-  11:30 a 13:30 - TBA - Brenda Eloisa Sanchez Pichardo  
+- Viernes 5. (03/oct/2025) - **Clasificación con abundancia taxonómica**  
+  11:30 a 13:30 - clasificación de sujetos con datos de abundancia taxonómica - Brenda Eloisa Sanchez Pichardo
+  
 - Viernes 6. (10/oct/2025) - **PCA en Transcriptómica**  
   11:30 a 13:30 - Anáisis de Componentes Principales en datos Transcriptómicos - Alejandra Paulina Pérez González  
 - Viernes 7. (17/oct/2025) - **Reproducibilidad Bioinformática**  
