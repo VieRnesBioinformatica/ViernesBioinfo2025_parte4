@@ -71,6 +71,8 @@ Equipo de apoyo:  Jorge Suazo
   
 - Viernes 5. (03/oct/2025) - **Clasificación con abundancia taxonómica**  
   11:30 a 13:30 - Clasificando microbios: una introducción al microbioma y al aprendizaje supervisado - Brenda Eloisa Sanchez Pichardo
+
+  Link a notebook: https://drive.google.com/drive/folders/1zt35oBBHiEpDtJd0VjgntP9vihuOcPlN?usp=share_link
   
 - Viernes 6. (10/oct/2025) - **PCA en Transcriptómica**  
   11:30 a 13:30 - Anáisis de Componentes Principales en datos Transcriptómicos - Alejandra Paulina Pérez González  
