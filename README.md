@@ -76,6 +76,9 @@ Equipo de apoyo:  Jorge Suazo
   
 - Viernes 6. (10/oct/2025) - **PCA en Transcriptómica**  
   11:30 a 13:30 - Anáisis de Componentes Principales en datos Transcriptómicos - Alejandra Paulina Pérez González  
+
+  Link a script de la clase: https://raw.githubusercontent.com/VieRnesBioinformatica/ViernesBioinfo2025_parte4/refs/heads/main/scripts/PCA.R
+  
 - Viernes 7. (17/oct/2025) - **Reproducibilidad Bioinformática**  
   11:30 a 13:30 - Recreando una figura de un artículo en R - Josué Guzmán Linares  
 - Viernes 8. (24/oct/2025) - **Predicción miRNAs**  
