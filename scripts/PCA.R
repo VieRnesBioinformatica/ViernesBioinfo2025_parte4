@@ -1,5 +1,5 @@
 #How to PCA 
-#Script to inspect and pre-process RNA-seq data counts 
+#Script to inspect RNA-seq data counts 
 #https://github.com/paulinapglz99
 
 #I used the reference to build a PCA https://cran.r-project.org/web/packages/LearnPCA/vignettes/Vig_03_Step_By_Step_PCA.pdf
@@ -32,16 +32,14 @@ gse <- getGEO("GSE119834")
 metadata <- pData(gse[[1]])
 dim(metadata)
 
+#En el caso de GSE119834, los controles son 'Neural Stem Cells (NSCs)'.
+
 table(metadata$source_name_ch1)
 
 #Filtrar metadata
 
 metadata <- metadata[metadata$geo_accession %in% colnames(expresion), ]
 dim(metadata)
-
-#En el caso de GSE119834, los controles son 'Neural Stem Cells (NSCs)'.
-
-table(metadata$source_name_ch1)
 
 #Prepare data
 
@@ -74,10 +72,9 @@ pca$sdev
 
 #La matriz de carga o loadings: los coeficientes que indican cuánto contribuye cada variable original a cada componente principal.
 #Cada columna es un componente principal; cada fila, una variable original.
-pca$rotation
+pca$rotation[1:10, 1:10]
 
 #Los valores medios de cada variable que fueron restados cuando center = TRUE.
-
 pca$center
 
 #Los factores de escala aplicados si scale. = TRUE.
@@ -87,7 +84,7 @@ pca$scale
 
 #Las coordenadas de tus observaciones proyectadas en el nuevo espacio de componentes principales.
 
-pca$x
+pca$x[1:10, 1:10]
 
 #PCA to table --- --- 
 
@@ -114,10 +111,10 @@ head(variance_table)
 scree <- ggplot(variance_table, aes(x = PC, y = Variance_Percentage)) +
   geom_bar(stat = 'identity', fill = "navyblue",  position = 'dodge') +
   labs(title = 'Scree plot',
-       subtitle = 'filtered data',
+       subtitle = '  ',
        x = 'Principal Components',
        y = 'Variance percentage') +
-  scale_x_discrete() +
+#  scale_x_discrete() +
   theme_minimal()
 
 #Vis
@@ -128,7 +125,7 @@ scree
 #Table with the PCs explaining the 95% of data
 
 variance_table_95 <- variance_table %>% 
-  filter(cumulative_percentage >= 95)
+  filter(cumulative_percentage <= 96)
 
 #Plotting PCs explaining the 95% of data
 
@@ -149,9 +146,8 @@ variance_95
 #Plot PC1 and PC2
 
 PC1_PC2 <- pca_df %>% 
-  ggplot() +
-  aes(x = PC1, y = PC2) +
-  geom_point() 
+  ggplot(aes(x = PC1, y = PC2)) +
+  geom_point()
 
 #Vis
 PC1_PC2
@@ -160,7 +156,7 @@ PC1_PC2
 
 #Colorear segun la metadata
 PC1_PC2 <- PC1_PC2 +
-  aes(colour = metadata$`cell type:ch1`) +
+  aes(colour = metadata$source_name_ch1) +
   theme_minimal()
 
 #Vis
@@ -170,16 +166,16 @@ PC1_PC2
 
 PC1_PC2 <- PC1_PC2 +
   geom_text(mapping = aes(label = IndividualID)) +          #Agregamos texto
-  labs(title = "PCA scoreplot ",                           #Agregamos titulos 
+  labs(title = "PCA scoreplot",                           #Agregamos titulos 
        x = paste("PC1 (", paste(variance_table$Variance_Percentage[1]), "%)"),
-       y = paste("PC2 (", sprintf("%.2f", variance_table$Variance_Percentage[2]), "%)")) + #nos gusta mas usar sprintf
-       theme_minimal()
+       y = paste("PC2 (", sprintf("%.2f", variance_table$Variance_Percentage[2]), "%)")) #nos gusta mas usar sprintf
+
 #Vis
 PC1_PC2
 
 #Un plus a la visualizacion, colocar elipses para ver los grupos bien definidos
 PC1_PC2 <- PC1_PC2 + 
-  stat_ellipse(geom = "polygon", aes(fill = metadata$`cell type:ch1`), alpha = 0.2, show.legend = FALSE)
+  stat_ellipse(geom = "polygon", aes(fill = metadata$source_name_ch1), alpha = 0.2, show.legend = FALSE)
 
 #Vis
 PC1_PC2
@@ -187,7 +183,7 @@ PC1_PC2
 #Guardar plots
 
 ggsave(filename = "PCA_elipse.pdf", 
-       plot = PCA_elipse, 
+       plot = PC1_PC2, 
        height = 20, 
        width = 20, 
        device = "pdf",  
