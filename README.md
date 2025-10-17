@@ -81,6 +81,11 @@ Equipo de apoyo:  Jorge Suazo
   
 - Viernes 7. (17/oct/2025) - **Reproducibilidad Bioinformática**  
   11:30 a 13:30 - Recreando una figura de un artículo en R - Josué Guzmán Linares  
+
+  Link a scripts de la clase:
+    * https://raw.githubusercontent.com/VieRnesBioinformatica/ViernesBioinfo2025_parte4/refs/heads/main/scripts/nyt_heatmap.R  
+    * https://raw.githubusercontent.com/VieRnesBioinformatica/ViernesBioinfo2025_parte4/refs/heads/main/scripts/tidyheatmap.R  
+  
 - Viernes 8. (24/oct/2025) - **Predicción miRNAs**  
   11:30 a 13:30 - Predicción de genes blanco y vías funcionales en miRNAs - Andrea Maria Torres Iribe
 - Viernes 9. (31/oct/2025) -  TBA  
