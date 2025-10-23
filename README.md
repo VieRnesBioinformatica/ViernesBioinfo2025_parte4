@@ -68,16 +68,21 @@ Equipo de apoyo:  Jorge Suazo
   12:30 a 13:30 - Proyectos de la Comunidad - Evelia Coss
   12:30 - [Dr.  Diego Cortez Quezada](https://www.ccg.unam.mx/diego-cortez-quezada/), investigador de CCG
 
+   * Vídeo de la sesión: [https://youtube.com/live/k2U24cPQeCk?feature=share](https://youtube.com/live/k2U24cPQeCk?feature=share)
   
 - Viernes 5. (03/oct/2025) - **Clasificación con abundancia taxonómica**  
   11:30 a 13:30 - Clasificando microbios: una introducción al microbioma y al aprendizaje supervisado - Brenda Eloisa Sanchez Pichardo
 
-  Link a notebook: https://drive.google.com/drive/folders/1zt35oBBHiEpDtJd0VjgntP9vihuOcPlN?usp=share_link
+  * Link a notebook: https://drive.google.com/drive/folders/1zt35oBBHiEpDtJd0VjgntP9vihuOcPlN?usp=share_link
+
+  * Vídeo de la sesión: [https://youtube.com/live/hNDk899RrME?feature=share](https://youtube.com/live/hNDk899RrME?feature=share)
   
 - Viernes 6. (10/oct/2025) - **PCA en Transcriptómica**  
   11:30 a 13:30 - Anáisis de Componentes Principales en datos Transcriptómicos - Alejandra Paulina Pérez González  
 
-  Link a script de la clase: https://raw.githubusercontent.com/VieRnesBioinformatica/ViernesBioinfo2025_parte4/refs/heads/main/scripts/PCA.R
+  * Link a script de la clase: https://raw.githubusercontent.com/VieRnesBioinformatica/ViernesBioinfo2025_parte4/refs/heads/main/scripts/PCA.R
+
+  * Vídeo de la sesión: [https://youtube.com/live/Pkiwttdjt4k?feature=share](https://youtube.com/live/Pkiwttdjt4k?feature=share)
   
 - Viernes 7. (17/oct/2025) - **Reproducibilidad Bioinformática**  
   11:30 a 13:30 - Recreando una figura de un artículo en R - Josué Guzmán Linares  
@@ -85,6 +90,8 @@ Equipo de apoyo:  Jorge Suazo
   Link a scripts de la clase:
     * https://raw.githubusercontent.com/VieRnesBioinformatica/ViernesBioinfo2025_parte4/refs/heads/main/scripts/nyt_heatmap.R  
     * https://raw.githubusercontent.com/VieRnesBioinformatica/ViernesBioinfo2025_parte4/refs/heads/main/scripts/tidyheatmap.R  
+
+* Vídeo de la sesión: [https://youtube.com/live/G9muqbL8zvM?feature=share](https://youtube.com/live/G9muqbL8zvM?feature=share)
   
 - Viernes 8. (24/oct/2025) - **Predicción miRNAs**  
   11:30 a 13:30 - Predicción de genes blanco y vías funcionales en miRNAs - Andrea Maria Torres Iribe
