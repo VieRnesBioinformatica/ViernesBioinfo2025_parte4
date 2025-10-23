@@ -1,6 +1,10 @@
 # Instalar y cargar pacman (solo una vez)
 if (!require("pacman")) install.packages("pacman")
+
 library(pacman)
+
+if (!require("BiocManager", quietly = TRUE))  install.packages("BiocManager")
+
 
 # Cargar (e instalar si falta) todas las librerías necesarias
 p_load( dplyr, tidyr, ggplot2, purrr, vroom, stringr,
@@ -11,10 +15,10 @@ p_load( dplyr, tidyr, ggplot2, purrr, vroom, stringr,
 ################################PREDICCIÓN DE GENES######################################################################
 
 # Cargar el archivo CSV con los miRNAs
-data <- read.csv("C:/Users/andre/Desktop/LIIGH-UNAM/GENES_MIRNAS_MIMAT.csv")
+data <- read.csv("https://raw.githubusercontent.com/VieRnesBioinformatica/ViernesBioinfo2025_parte4/refs/heads/main/datos/GENES_MIRNAS_MIMAT.csv")
 
 # Definir el directorio de salida
-output_dir <- "C:/Users/andre/Desktop/LIIGH-UNAM/"
+output_dir <- "."
 
 # Verificar la estructura del archivo
 head(data)
@@ -81,6 +85,7 @@ head(miRNAtap_results[[1]])
 
 # Combinar todos los resultados en un único marco de datos
 library(dplyr)
+
 all_results <- bind_rows(lapply(names(miRNAtap_results), function(mir) {
   if (!is.null(miRNAtap_results[[mir]])) {  # Ignorar si no hay resultados
     data.frame(miRNA = mir, 
@@ -151,7 +156,7 @@ miRNA_targets <- read.csv("2_MODIFICADO_miRNA_target_predictions_with_names.csv"
 #############################################CONVERSION_DE_FORMATO_ENTREZ_SYMBOL#########################################################################################
 
 # Cargar la tabla con las predicciones
-df_genes <- read.csv("C:/Users/andre/Desktop/LIIGH-UNAM/2_MODIFICADO_miRNA_target_predictions_with_names.csv")
+df_genes <- read.csv("2_MODIFICADO_miRNA_target_predictions_with_names.csv")
 
 # Convertir los ENTREZ ID a character (necesario para mapIds)
 df_genes$GeneName <- as.character(df_genes$GeneName)
@@ -178,20 +183,20 @@ head(df_genes[c("GeneName", "GeneSymbol")])
 df_genes <- df_genes[!is.na(df_genes$GeneSymbol), ]
 
 # 🔹 Guardar el archivo final con la columna GeneSymbol
-write.csv( df_genes, "C:/Users/andre/Desktop/LIIGH-UNAM/3_FINAL_miRNA_target_predictions_with_SYMBOL.csv", row.names = FALSE)
+write.csv( df_genes, "3_FINAL_miRNA_target_predictions_with_SYMBOL.csv", row.names = FALSE)
 
 cat("✅ Archivo final guardado con los nombres de genes en formato SYMBOL.\n") 
 
 
 
-#####################################HASTA AQUI#################################################33
+#####################################HASTA AQUI###################################################
 
 
 
 
 ##########Automatizado 
 # Definir la ruta donde quieres guardar las imágenes
-directorio_imagenes <- "C:/Users/andre/Desktop/LIIGH-UNAM/"
+directorio_imagenes <- "."
 
 # Definir las categorías GO
 categorias_GO <- c("BP", "CC", "MF")
