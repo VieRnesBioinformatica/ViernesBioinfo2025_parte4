@@ -96,9 +96,8 @@ Equipo de apoyo:  Jorge Suazo
 - Viernes 8. (24/oct/2025) - **Predicción miRNAs**  
   11:30 a 13:30 - Predicción de genes blanco y vías funcionales en miRNAs - Andrea Maria Torres Iribe
 
-Link a scripts de la clase:  
-
-    * https://raw.githubusercontent.com/VieRnesBioinformatica/ViernesBioinfo2025_parte4/refs/heads/main/scripts/clase_mirna_script_21_10_25.R  
+  Link a scripts de la clase:
+    * https://raw.githubusercontent.com/VieRnesBioinformatica/ViernesBioinfo2025_parte4/refs/heads/main/scripts/clase_mirna_script_21_10_25.R    
   
 - Viernes 9. (31/oct/2025) -  TBA  
   11:30 a 13:30 - Proyectos de la Comunidad - Evelia Coss  
