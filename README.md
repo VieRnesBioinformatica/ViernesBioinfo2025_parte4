@@ -91,8 +91,8 @@ Equipo de apoyo:  Jorge Suazo
     * https://raw.githubusercontent.com/VieRnesBioinformatica/ViernesBioinfo2025_parte4/refs/heads/main/scripts/nyt_heatmap.R  
     * https://raw.githubusercontent.com/VieRnesBioinformatica/ViernesBioinfo2025_parte4/refs/heads/main/scripts/tidyheatmap.R  
 
-* Vídeo de la sesión: [https://youtube.com/live/G9muqbL8zvM?feature=share](https://youtube.com/live/G9muqbL8zvM?feature=share)
-  
+    * Vídeo de la sesión: [https://youtube.com/live/G9muqbL8zvM?feature=share](https://youtube.com/live/G9muqbL8zvM?feature=share)  
+    
 - Viernes 8. (24/oct/2025) - **Predicción miRNAs**  
   11:30 a 13:30 - Predicción de genes blanco y vías funcionales en miRNAs - Andrea Maria Torres Iribe
 
