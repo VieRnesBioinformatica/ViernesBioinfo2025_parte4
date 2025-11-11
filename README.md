@@ -107,7 +107,13 @@ Equipo de apoyo:  Jorge Suazo
     * Vídeo de la sesión: [https://www.youtube.com/live/xx0puRaEx18?si=O8S6uPYikeX-bHvz&t=2378](https://www.youtube.com/live/xx0puRaEx18?si=O8S6uPYikeX-bHvz&t=2378)  
   
 - Viernes 10. (07/nov/2025) - TBA  
-  11:30 a 13:30 - TBA - Fernanda Mirón Toruño  
+  11:30 a 13:30 - TBA - Fernanda Mirón Toruño
+
+  Link a scripts de la clase:
+    * https://raw.githubusercontent.com/fernanda-miron/Viernes-de-Bioinformatica/refs/heads/main/ggplot2_script.R
+
+    * Vídeo de la sesión: [https://www.youtube.com/live/Ec8fub7IJE8?si=ge6Tnh8QjEDYFB1_&t=697](https://www.youtube.com/live/Ec8fub7IJE8?si=ge6Tnh8QjEDYFB1_&t=697)  
+
 - Viernes 11. (14/nov/2025) - TBA  
   11:30 a 13:30 - TBA - Blanca Itzel Taboada  
 - Viernes 12. (21/nov/2025) - **ASUETO no hay sesión**  
