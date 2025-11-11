@@ -101,8 +101,11 @@ Equipo de apoyo:  Jorge Suazo
 
     * Vídeo de la sesión: [https://www.youtube.com/live/zRxpl8dvISA?si=ub0raOtgSHQO4lm0&t=2578](https://www.youtube.com/live/zRxpl8dvISA?si=ub0raOtgSHQO4lm0&t=2578)  
   
-- Viernes 9. (31/oct/2025) -  TBA  
-  11:30 a 13:30 - Proyectos de la Comunidad - Evelia Coss  
+- Viernes 9. (31/oct/2025) -  Diferentes caminos para hacer Bioinformática  
+  11:30 a 13:30 - Proyectos de la Comunidad - Israel Aguilar
+
+    * Vídeo de la sesión: [https://www.youtube.com/live/xx0puRaEx18?si=O8S6uPYikeX-bHvz&t=2378](https://www.youtube.com/live/xx0puRaEx18?si=O8S6uPYikeX-bHvz&t=2378)  
+  
 - Viernes 10. (07/nov/2025) - TBA  
   11:30 a 13:30 - TBA - Fernanda Mirón Toruño  
 - Viernes 11. (14/nov/2025) - TBA  
