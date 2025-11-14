@@ -106,20 +106,24 @@ Equipo de apoyo:  Jorge Suazo
 
     * Vídeo de la sesión: [https://www.youtube.com/live/xx0puRaEx18?si=O8S6uPYikeX-bHvz&t=2378](https://www.youtube.com/live/xx0puRaEx18?si=O8S6uPYikeX-bHvz&t=2378)  
   
-- Viernes 10. (07/nov/2025) - TBA  
-  11:30 a 13:30 - TBA - Fernanda Mirón Toruño
+- Viernes 10. (07/nov/2025) - Creación de gráficos con ggplot2  
+  11:30 a 13:30 - Creación de gráficos con ggplot2 - Fernanda Mirón Toruño
 
   Link a scripts de la clase:
     * https://raw.githubusercontent.com/fernanda-miron/Viernes-de-Bioinformatica/refs/heads/main/ggplot2_script.R
 
     * Vídeo de la sesión: [https://www.youtube.com/live/Ec8fub7IJE8?si=ge6Tnh8QjEDYFB1_&t=697](https://www.youtube.com/live/Ec8fub7IJE8?si=ge6Tnh8QjEDYFB1_&t=697)  
 
-- Viernes 11. (14/nov/2025) - TBA  
-  11:30 a 13:30 - TBA - Blanca Itzel Taboada  
+- Viernes 11. (14/nov/2025) - Explorando el microbioma con Python y ChatGPT
+  11:30 a 13:30 - Explorando el microbioma con Python… y con ChatGPT: del conteo al gráfico - Blanca Itzel Taboada  
+  
 - Viernes 12. (21/nov/2025) - **ASUETO no hay sesión**  
+
 - Viernes 13. (28/nov/2025) - **Llamado de Variantes Quick**  
   11:30 a 13:30 - Tutorial nf-core/sarek - Karla Guzmán Barrenechea   
+  
 - Viernes 14. TBA (05/dic/2025) -  **¡Cómo preparar tus bases de datos!**    
   11:30 a 13:30 - Preparing databases for mapping and variant calling in cancer research - Alan Michael Torres Calderon   
+  
 - Viernes 15. TBA (12/dic/2025) - **EcoNiches**  
   11:30 a 13:30 - Tutorial del paquete R: EcoNiches - Armando Sunny  
