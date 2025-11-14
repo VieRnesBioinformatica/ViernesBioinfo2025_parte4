@@ -114,8 +114,7 @@ Equipo de apoyo:  Jorge Suazo
 
     * Vídeo de la sesión: [https://www.youtube.com/live/Ec8fub7IJE8?si=ge6Tnh8QjEDYFB1_&t=697](https://www.youtube.com/live/Ec8fub7IJE8?si=ge6Tnh8QjEDYFB1_&t=697)  
 
-- Viernes 11. (14/nov/2025) - Explorando el microbioma con Python y ChatGPT
-  11:30 a 13:30 - Explorando el microbioma con Python… y con ChatGPT: del conteo al gráfico - Blanca Itzel Taboada  
+- Viernes 11. (14/nov/2025) - Cancelado.  
   
 - Viernes 12. (21/nov/2025) - **ASUETO no hay sesión**  
 
