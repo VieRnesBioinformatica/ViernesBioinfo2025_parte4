@@ -123,6 +123,9 @@ Equipo de apoyo:  Jorge Suazo
   
 - Viernes 14. TBA (05/dic/2025) -  **¡Cómo preparar tus bases de datos!**    
   11:30 a 13:30 - Preparing databases for mapping and variant calling in cancer research - Alan Michael Torres Calderon   
+
+  Link a scripts y documentación de la clase:
+    * https://github.com/mike-bioinfo/tutorial-databases-cancer
   
 - Viernes 15. TBA (12/dic/2025) - **EcoNiches**  
   11:30 a 13:30 - Tutorial del paquete R: EcoNiches - Armando Sunny  
