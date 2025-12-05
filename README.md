@@ -120,12 +120,16 @@ Equipo de apoyo:  Jorge Suazo
 
 - Viernes 13. (28/nov/2025) - **Llamado de Variantes Quick**  
   11:30 a 13:30 - Tutorial nf-core/sarek - Karla Guzmán Barrenechea   
+
+    * Vídeo de la sesión: https://www.youtube.com/live/TKv8roQdltU?si=j925CAbFmUPcvdFR  
   
 - Viernes 14. TBA (05/dic/2025) -  **¡Cómo preparar tus bases de datos!**    
   11:30 a 13:30 - Preparing databases for mapping and variant calling in cancer research - Alan Michael Torres Calderon   
 
   Link a scripts y documentación de la clase:
     * https://github.com/mike-bioinfo/tutorial-databases-cancer
+
+    * Vídeo de la sesión: https://www.youtube.com/live/cTbxCiuJgv4?si=Cw9IIGMzzda66lQA  
   
 - Viernes 15. TBA (12/dic/2025) - **EcoNiches**  
   11:30 a 13:30 - Tutorial del paquete R: EcoNiches - Armando Sunny  
