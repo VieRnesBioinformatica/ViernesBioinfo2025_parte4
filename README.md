@@ -132,4 +132,9 @@ Equipo de apoyo:  Jorge Suazo
     * Vídeo de la sesión: https://www.youtube.com/live/cTbxCiuJgv4?si=Cw9IIGMzzda66lQA  
   
 - Viernes 15. TBA (12/dic/2025) - **EcoNiches**  
-  11:30 a 13:30 - Tutorial del paquete R: EcoNiches - Armando Sunny  
+  11:30 a 13:30 - Tutorial del paquete R: EcoNiches - Armando Sunny
+
+  * Vídeo de la sesión: [https://www.youtube.com/live/XOnm1B019Q4?si=qgz1YIXUXpDnzoHs](https://www.youtube.com/live/XOnm1B019Q4?si=qgz1YIXUXpDnzoHs)
+
+  Repositorio de EcoNiches:
+    * https://github.com/armandosunny/EcoNicheS  
